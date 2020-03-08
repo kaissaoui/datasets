@@ -1,0 +1,11 @@
+reporting_year,tradable_symbol,country_code,sector_name,sector_ranking,floor_space,direct_energy_consumption,primary_energy_source,water_consumed,climate_risk_mitigation,total_employees,ceo_pay_ratio,gender_pay_ratio,employee_turnover_ratio,contractor_turnover_ratio,employee_gender_diversity,contractor_vs_total_employee,part_time_worker_ratio,part_time_turnover_ratio,injury_rate,board_gender,committee_gender,independent_board
+2018,DANSKE,DK,Banks,4,541962.0,5655.0,,75823.0,,23943,,,0.13,0.57,0.46,0.11,0.1,0.11,0.0087,0.5,,0.67
+2017,NOKIA,FI,Technology,6,,456000.0,fossil oil,2331000.0,,102761,,,0.1,,0.22,,0.1,,0.0004,0.3,,1.0
+2017,JYSK,DK,Banks,4,,,,,,4474,11.8:1,1.2:1,0.1,,0.44,0.09,0.08,,0.0063,0.33,,
+2018,CAST,SE,Real Estate,1,4229339.0,3922.0,"District heating and cooling, origin labled renewable elect",969783.0,270000000.0,388,16.1:1,1.0:1,0.09,,0.42,,0.09,,0.0258,0.43,1.0,1.0
+2017,MEKO,,Automobiles & Parts,1,,,Nordic mix/green electricity,,,2835,,,0.11,,0.19,,0.09,,0.0152,,,
+2017,DANSKE,DK,Banks,1,563644.0,6849.0,,84991.0,,20417,,,0.13,,0.53,,0.12,,,0.42,,
+2017,CAST,SE,Real Estate,1,4380775.0,343140.0,,832723.0,6855000.0,384,12.7:1,1.0:1,0.25,,0.39,,0.25,,0.0078,0.57,1.0,1.0
+2018,JYSK,DK,Banks,3,200000.0,,"District heating (90%), 100% renewable energy (electricity)",,267880.0,4249,15.0:1,1.2:1,0.11,0.61,0.43,0.1,0.14,0.16,0.0068,0.27,0.4,0.36
+2018,ALMA,FI,Media,3,72376.0,2581.0,,3566.0,,2746,,,,,0.52,,0.37,,0.0841,0.38,0.0,0.5
+2018,MEKO,SE,Automobiles & Parts,4,,,Nordic mix/green electricity. District heating.,,,5569,,,,,0.16,,0.13,,0.0163,0.43,1.0,0.71
